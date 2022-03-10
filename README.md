@@ -14,6 +14,7 @@
 ## Data Format
 - Train: 21710 articles from 2015-03-02 to 2021-01-13
 - Public: 5494 articles from 2021-01-14 to 2021-04-10
+- [dataset link](https://drive.google.com/file/d/186ejZVADY16RBfVjzcMcz9bal9L3inXC/view)
 
 ### Example
 ```
